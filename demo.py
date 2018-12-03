@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from module.aff7seg_lib import *
 
 init_aff7seg(9)
